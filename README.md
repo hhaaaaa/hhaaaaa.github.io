@@ -1,4 +1,4 @@
-# minemanemo.github.io
+# hhaaaaa.github.io
 
 ---
 
@@ -13,7 +13,6 @@ bundle exec jekyll serve
 
 Open `http://localhost:4000`
 
-## Referrence
+<!-- ## Referrence -->
 
-- https://simpleicons.org
-- https://marshall-ku.tistory.com/203
+<!-- - https://simpleicons.org -->
