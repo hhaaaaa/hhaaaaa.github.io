@@ -16,7 +16,7 @@ website_title: GitHub
 website: https://github.com/hhaaaaa
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 # twitter_username: jekyllrb
