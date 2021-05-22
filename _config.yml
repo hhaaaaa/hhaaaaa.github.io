@@ -1,31 +1,33 @@
 # Site
-repository: minemanemo/minemanemo.github.io
+repository: hhaaaaa/hhaaaaa.github.io
 favicon: https://github.githubassets.com/favicons/favicon-dark.png
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: 이민회
+name: 하현
 title: Front-end Engineer
 email_title: Email
-email: minhoe1122@gmail.com
+email: gkgusgkgus@naver.com
 # phone_title: Phone (Phone title override)
 # phone: Your phone number (optional)
-website_title: TiStory
-website: https://minemanemo.tistory.com
+website_title: GitHub
+website: https://github.com/hhaaaaa
 
 # Dark Mode (true/false/never)
 darkmode: never
 
 # Social links
 # twitter_username: jekyllrb
-github_username: minemanemo
+# github_username: hhaaaaa
+# tistory_username: minemanemo
+# rocketpunch_username: minhoe1122
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: jekyll
+# instagram_username: minoi1122
 # linkedin_username: jekyll
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -59,20 +61,27 @@ about_content: |
 
   `Front-End 개발을 좋아합니다.`
 
-  - 사용자 경험 증대에 보다 앞장 설 수 있는 점을 매력적으로 생각하여 Front-End 개발자를 시작하게 되었습니다.
-  - 항상 사용자에게 편리한 사용자 경험을 고려하며 디자이너와 소통하여 더 좋은 사용자 경험을 끌어내려고 노력합니다.
-  - 항상 새로운 것을 공부하며 더 좋은 서비스를 개발하기 위해 노력합니다.
+  - 사용자 경험 증대에 보다 앞장 설 수 있는 점에 매력을 느껴 Front-End 개발자를 시작하게 되었습니다.
+  - 사용자 입장을 고려하고 디자이너와 소통하며 보다 좋은 사용자 경험을 끌어내려고 노력합니다.
+  - 항상 새로운 것을 공부하며 좋은 서비스를 개발하기 위해 노력합니다.
 
   `레거시 시스템이 두렵지 않습니다.`
 
-  - APM 기반의 레거시 웹 서비스 운영 경험
+  - APM(Apache, PHP, MySQL) 기반의 레거시 웹 서비스 운영 경험
   - 네트워크 접근 제어 솔루션 관리자 콘솔 마이그레이션 경험 (JQuery → ExtJS)
   - 광고 플랫폼 사이트 고도화 및 마이그레이션 (JQuery → React)
 
   `협업 능력이 저의 제일 큰 장점 입니다.`
-  - 좋은 개발 문화를 만드는데 관심아 관리 및 협업 도구를 잘 쓰고싶어합니다.
+
+  - 좋은 개발 문화를 만드는데 앞장서며 관리 및 협업 도구를 잘 쓰고싶어합니다.
   - JIRA Sprint 리더 경험이 있으며 Wiki 문서 작성하고 `좋아요 👍🏻` 받는 것을 좋아합니다.
   - Git을 자유자제로 사용할 수 있습니다.
+
+  `동료들도 저의 고객입니다.`
+
+  - 저와 동료들 모두가 개발하는데 집중할 수 있는 환경을 만드는 것은 저의 고민 거리 중 하나 입니다.
+  - 효율적으로 일하고 싶습니다.
+  - 때문에 DevOps에 관심이 많습니다.
 
   주요 관심 파트 : <mark>WEB</mark> , <mark>Front-End</mark> , <mark>DevOps</mark>
 
@@ -80,7 +89,7 @@ content:
   - title: Skill
     layout: text
     quote: >
-      현재 업무에 사용중 혹은 사용했던 기술들입니다.
+      현재 업무에 사용 중이거나 혹은 사용했던 기술 혹은 도구들입니다.
     content: |
       <div style="display: flex;flex-wrap: wrap;justify-content: space-around; max-width: 1000px; margin: 0 auto;">
         <div style="text-align: center;margin-bottom: 20px;min-width: 350px;">
@@ -167,7 +176,7 @@ content:
           지금까지의 프로젝트 중 Front-End와 DevOps와 관련된 주요 프로젝트 입니다.
       - layout: left
         sub_title: 광고 플랫폼 웹 사이트 개발<br />(Front-End)
-        caption: Motov<br />21.09 ~ 현재
+        caption: Motov<br />20.09 ~ 현재
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
         # additional_links:
@@ -209,7 +218,7 @@ content:
 
       - layout: left
         sub_title: 광고 플랫폼 CI/CD 구축<br />(DevOps)
-        caption: Motov<br />21.09 ~ 현재
+        caption: Motov<br />20.09 ~ 현재
         description: |
           <strong>❏ 프로젝트 개요</strong>
             - 서비스들의 빌드 및 배포 자동화 구축
@@ -247,7 +256,7 @@ content:
 
       - layout: left
         sub_title: 광고 플랫폼 Cloud Architecture Design 및 IoC 개발<br />(DevOps)
-        caption: Motov<br />21.09 ~ 현재
+        caption: Motov<br />20.09 ~ 현재
         description: |
           <strong>❏ 프로젝트 개요</strong>
             - 광고주 플랫폼의 AWS Cloud Network Architecture 설계 및 구축
@@ -274,6 +283,7 @@ content:
           <strong>❏ 프로젝트 개요</strong>
             - 웹 서비스 기반 OS 형태의 네트워크 관리자 콘솔 개발
             - 기존의 Window 기반의 네트워크 관리자 콘솔은 배포와 수정이 어려움 발생
+            - Spring Cloud 도입
 
           <strong>❏ 역할</strong>
             - web frontend 개발
@@ -282,6 +292,7 @@ content:
             - Git 레포지토리 관리 (서브모듈 구성 관리)
             - 지속적인 통합 및 배포 가능하도록 구성 및 관리 (bamboo 프로젝트 구성 및 스크립트 개발)
             - MFC/C#으로 개발된 기존의 네트워크 관리 애플리케이션을 웹 서비스 앱으로 마이그레이션(또는 신규 개발)
+            - 빌드 및 배포 자동화 구축 (bamboo)
 
           <strong>❏ 사용 기술</strong>
             - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -415,7 +426,6 @@ content:
       - layout: left
         title: 개인 블로그
         sub_title: https://minemanemo.tistory.com
-        caption: 2012.03 ~ 18.02
         description: |
           * 개인 기술 블로그 입니다.
           * 업무 중 발생한 트러블 슈팅 내용, 새롭게 공부한 내용 등 개발에 관련된 내용을 주제로 포스팅 합니다.
