@@ -1,0 +1,34 @@
+    6  git log
+    7  git checkout -b develop
+    8  git checkout 44d944a56996e86a184b6f85111e1ac406db3fd4
+    9  git stash
+   10  git checkout 44d944a56996e86a184b6f85111e1ac406db3fd4
+   11  git branch -D develop
+   12  git branch develop
+   13  git checkout develop
+   14  git stash pop
+   15  git checkout master
+   16  git stash clear
+   18  git add test.txt
+   19  git commit -m "add test"
+   20  git push origin master
+   21  git push origin develop
+   22  git reset HEAD~7
+   23  git clean -fd
+   24  git checkout ./
+   25  git pull
+   26  git reset HEAD~12
+   27  git reset HEAD~1
+   28  git st
+   29  git status
+   30  git clean -fd
+   31  git checkout ./
+   32  git rebase develop
+   33  git log
+   34  git checkout c965713a3b4a775e2b9c647f8ee60b8d5cd2da26
+   35  git checkout -b test
+   36  git checkout master
+   37  git push origin master
+   38  git push -f origin master
+   39  history|grep git
+   40  history|grep git > git-command.txt

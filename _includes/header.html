@@ -1,6 +1,7 @@
 <div class="container header-contianer">
   <div class="row">
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-8 header-left">
+      <br/>
       <h1>{{ site.name | escape }}</h1>
       <h2>{{ site.title | escape }}</h2>
     </div>
@@ -107,6 +108,42 @@
       </ul>
 
       {%- if site.email -%}
+        <table style="font-size: 1.5rem; font-weight: 600; width: 100%;"> 
+          <tr>
+            <td style="border-bottom: none; text-align: center; width: 40%;">
+              {{ site.email_title | default: "Email" }}
+            </td>
+            <td style="border-bottom: none; font-weight: normal; width: 60%;">
+              <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+            </td>
+          </tr>
+        </table>
+      {%- endif -%}
+      {%- if site.website -%}
+        <table style="font-size: 1.5rem; font-weight: 600; width: 100%;">
+          <tr>
+            <td style="border-bottom: none; text-align: center; width: 40%;">
+              {{ site.website_title | default: "Web" }}
+            </td>
+            <td style="border-bottom: none; font-weight: normal; width: 60%;">
+              {% include a.html href=site.website %}{{ site.website | escape }}</a>
+            </td>
+          </tr>
+        </table>
+      {%- endif -%}
+      {%- if site.phone -%}
+        <table style="font-size: 1.5rem; font-weight: 600; width: 100%;">
+          <tr>
+            <td style="border-bottom: none; text-align: center; width: 40%;">
+              {{ site.phone_title | default: "Phone" }}
+            </td>
+            <td style="border-bottom: none; font-weight: normal; width: 60%;">
+              {{ site.phone | escape }}
+            </td>
+          </tr>
+        </table>
+      {%- endif -%}
+      <!-- {%- if site.email -%}
         <p>
           {{ site.email_title | default: "Email" }}: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
@@ -120,7 +157,7 @@
         <p>
           {{ site.website_title | default: "Web" }}: {% include a.html href=site.website %}{{ site.website | escape }}</a>
         </p>
-      {%- endif -%}
+      {%- endif -%} -->
     </div>
   </div>
 </div>

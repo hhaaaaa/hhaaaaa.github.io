@@ -6,17 +6,17 @@ favicon: https://github.githubassets.com/favicons/favicon-dark.png
 version: 2
 
 # Personal info
-name: 하현
-title: Front-end Engineer
+name: 하  현
+title: Front-End Developer
 email_title: Email
 email: gkgusgkgus@naver.com
-# phone_title: Phone (Phone title override)
-# phone: Your phone number (optional)
 website_title: GitHub
 website: https://github.com/hhaaaaa
+phone_title: Phone
+phone: 010-6860-5012
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
 
 # Social links
 # twitter_username: jekyllrb
@@ -49,15 +49,19 @@ darkmode: true
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: https://avatars.githubusercontent.com/u/49668613?v=4
+# about_profile_image: https://avatars.githubusercontent.com/u/49668613?v=4
+about_profile_image: https://drive.google.com/uc?id=19auG9OckT8OPs3mUj71tRSqYQX7nYHe_
 about_content: |
-  "I can do anything, but I cannot do everything"
+  간단한 설명
 
-  모든걸 다 할 수는 없지만 무엇이든 할 수 있습니다.
-
-  배움의 욕심, 배움에 대한 실현, 지식의 나눔과 협업을 목표로 하는 개발자 입니다.
+  간단한 자기소개
 
   <hr />
+
+  `제목`
+
+  - 내용1
+  - 내용2
 
   `Front-End 개발을 좋아합니다.`
 
@@ -88,83 +92,96 @@ about_content: |
 content:
   - title: Skill
     layout: text
-    quote: >
-      현재 업무에 사용 중이거나 혹은 사용했던 기술 혹은 도구들입니다.
     content: |
-      <div style="display: flex;flex-wrap: wrap;justify-content: space-around; max-width: 1000px; margin: 0 auto;">
-        <div style="text-align: center;margin-bottom: 20px;min-width: 350px;">
-          <p style="text-align: center;font-weight: bold; margin-bottom: 20px;">💻 WEB 💻</p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-          <br /><br />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-          <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Redux%20Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
-          <br /><br />
-          <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
-          <br /><br />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Sencha-86BC40?style=flat-square&logo=Sencha&logoColor=white"/>
+      <div style="max-width: 1000px; margin: 0 auto;">
+        <div style="text-align: center;margin-bottom: 20px;min-width: 350px;font-size:1.4rem;font-style: italic;">
+          업무 혹은 프로젝트 경험에 사용했던 기술 혹은 도구들입니다.<br />
         </div>
+        
+        <div style="margin: 0 auto;">
+          <table>
+            <tr>
+              <td style="border: none; width: 30%; vertical-align: top; padding-left: 15px;">
+                <p style="text-align: left;font-weight: bold;">💻 Front-End 💻</p>
+              </td>
+              <td style="border: none; width: 70%;">
+                <div style="display: inline-block;text-align: left;margin-bottom: 20px;min-width: 350px;">
+                  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+                  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+                  <br /><br />
+                  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+                  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
+                  <br /><br />
+                  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
+                </div>
+              </td>
+            </tr>
+          </table>
+        </div><br/>
 
-        <div style="text-align: center;margin-bottom: 20px;min-width: 350px;">
-          <p style="text-align: center;font-weight: bold; margin-bottom: 20px;">🔑 DevOps & Infra 🔑</p>
-          <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
-          <br /><br />
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-          <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
-          <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-          <br /><br />
-          <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Bamboo-0052CC?style=flat-square&logo=Bamboo&logoColor=white"/>
-          <br /><br />
-          <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=Vagrant&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Chef-F09820?style=flat-square&logo=Chef&logoColor=white"/>
-          <br /><br />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-          <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo/nginx&logoColor=white"/>
-        </div>
+        <div style="margin: 0 auto;">
+          <table>
+            <tr>
+              <td style="border: none; width: 30%; vertical-align: top; padding-left: 15px;">
+                <p style="text-align: left;font-weight: bold;">🔑 Back-End 🔑</p>
+              </td>
+              <td style="border: none; width: 70%;">
+                <div style="display: inline-block;text-align: left;margin-bottom: 20px;min-width: 350px;">
+                  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+                  Nginx_icon<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo/nginx&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+                  <br /><br />
+                  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+                  <br /><br />
+                  spring maven etc
+                </div>
+              </td>
+            </tr>
+          </table>
+        </div><br/>
 
-        <div style="text-align: center;margin-bottom: 20px;min-width: 350px;">
-          <p style="text-align: center;font-weight: bold; margin-bottom: 20px;">🛠 Tools 🛠</p>
-          <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-          <br /><br />
-          <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
-          <br /><br />
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square&logo=Microsoft%20Teams&logoColor=white"/>
-        </div>
+        <div style="margin: 0 auto;">
+          <table>
+            <tr>
+              <td style="border: none; width: 30%; vertical-align: top; padding-left: 15px;">
+                <p style="text-align: left;font-weight: bold;">🛠 Tools 🛠</p>
+              </td>
+              <td style="border: none; width: 70%;">
+                <div style="display: inline-block;text-align: left;margin-bottom: 20px;min-width: 350px;">
+                  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+                  Eclipse
+                </div>
+              </td>
+            </tr>
+          </table>
+        </div><br/>
 
-        <div style="text-align: center;margin-bottom: 20px;min-width: 350px;">
-          <p style="text-align: center;font-weight: bold; margin-bottom: 20px;">⚙️ Etc (Experience) ⚙️</p>
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-          <br /><br />
-          <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=flat-square&logo=Robot%20Framework&logoColor=white"/>
-          <br /><br />
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white"/>
+        <div style="margin: 0 auto;">
+          <table>
+            <tr>
+              <td style="border: none; width: 30%; vertical-align: top; padding-left: 15px;">
+                <p style="text-align: left;font-weight: bold;">⚙️ Etc ⚙️</p>
+              </td>
+              <td style="border: none; width: 70%;">
+                <div style="display: inline-block;text-align: left;margin-bottom: 20px;min-width: 350px;">
+                  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+                </div>
+              </td>
+            </tr>
+          </table>
         </div>
       </div>
 
@@ -173,7 +190,50 @@ content:
     content:
       - layout: top-middle
         quote: >
-          지금까지의 프로젝트 중 Front-End와 DevOps와 관련된 주요 프로젝트 입니다.
+          지금까지의 프로젝트 중 Front-End와 관련된 주요 프로젝트 입니다.
+      - layout: left
+        sub_title: 육아의 신 App 웹뷰 개발<br />
+        caption: (주)원더풀플랫폼<br />20.12 ~ 현재
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link_text: Link Text
+        # additional_links:
+        #   - title: Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title: Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #############육아의신 Pdf 파일들 보면서 적으면 될듯!!!!!!!!!!!!!!!!!
+        description: |
+          <strong>❏ 프로젝트 개요</strong>
+            - 광고 플랫폼을 버전 2.0에서 3.0 개발을 진행하면서 플랫폼 자체를 새롭게 개발하여 고도화하는 프로젝트
+            - TTD(Taxi Top Driver)라고 불리는 택시 상단에 올라가는 디스플레이에서 송출할 광고를 관리하는 사이트 개발
+            - <a href="https://github.com/InteractiveAdvertisingBureau/OpenDirect">OpenDirect</a> 규격에 따른 사이트 개발
+
+          <strong>❏ 역할</strong>
+            - 광고주들이 광고를 관리할 수 있는 '광고주 사이트' Front-End 개발
+            - Zeplin을 통한 디자이너와 소통을 통한 UX 디자인 참여
+            - '광고주 사이트' Front-End 빌드 및 배포
+
+          <strong>❏ 사용 기술</strong>
+            - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript%20ES6-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/React%20Hooks-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+            <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Redux%20Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
+
+          <strong>❏ 성과</strong>
+            - 광고주 광고 사이트 초기 단계부터 설계 및 개발
+
       - layout: left
         sub_title: 광고 플랫폼 웹 사이트 개발<br />(Front-End)
         caption: Motov<br />20.09 ~ 현재
