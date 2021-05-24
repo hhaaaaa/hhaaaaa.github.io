@@ -211,9 +211,9 @@ content:
             - <a href="https://github.com/InteractiveAdvertisingBureau/OpenDirect">OpenDirect</a> 규격에 따른 사이트 개발
 
           <strong>❏ 역할</strong>
-            - 광고주들이 광고를 관리할 수 있는 '광고주 사이트' Front-End 개발
-            - Zeplin을 통한 디자이너와 소통을 통한 UX 디자인 참여
-            - '광고주 사이트' Front-End 빌드 및 배포
+            - ~ 육아의 신 App 커뮤니티 웹뷰 Front-End 개발
+            - Zeplin을 바탕으로 디자이너와 소통을 통한 UX 디자인 참여
+            - 육아의 신 App 커뮤니티 웹뷰 Front-End 빌드 및 배포
 
           <strong>❏ 사용 기술</strong>
             - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -232,57 +232,14 @@ content:
             <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
 
           <strong>❏ 성과</strong>
-            - 광고주 광고 사이트 초기 단계부터 설계 및 개발
+            - 육아의 신 App 커뮤니티 초기 단계부터 설계 및 개발
 
       - layout: left
-        sub_title: 광고 플랫폼 웹 사이트 개발<br />(Front-End)
-        caption: Motov<br />20.09 ~ 현재
-        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        # link_text: Link Text
-        # additional_links:
-        #   - title: Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #   - title: Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        sub_title: 프로젝트명<br />(DevOps)
+        caption: 기관명<br />기간
         description: |
           <strong>❏ 프로젝트 개요</strong>
-            - 광고 플랫폼을 버전 2.0에서 3.0 개발을 진행하면서 플랫폼 자체를 새롭게 개발하여 고도화하는 프로젝트
-            - TTD(Taxi Top Driver)라고 불리는 택시 상단에 올라가는 디스플레이에서 송출할 광고를 관리하는 사이트 개발
-            - <a href="https://github.com/InteractiveAdvertisingBureau/OpenDirect">OpenDirect</a> 규격에 따른 사이트 개발
-
-          <strong>❏ 역할</strong>
-            - 광고주들이 광고를 관리할 수 있는 '광고주 사이트' Front-End 개발
-            - Zeplin을 통한 디자이너와 소통을 통한 UX 디자인 참여
-            - '광고주 사이트' Front-End 빌드 및 배포
-
-          <strong>❏ 사용 기술</strong>
-            - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JavaScript%20ES6-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/React%20Hooks-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-            <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Redux%20Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
-
-          <strong>❏ 성과</strong>
-            - 광고주 광고 사이트 초기 단계부터 설계 및 개발
-
-      - layout: left
-        sub_title: 광고 플랫폼 CI/CD 구축<br />(DevOps)
-        caption: Motov<br />20.09 ~ 현재
-        description: |
-          <strong>❏ 프로젝트 개요</strong>
-            - 서비스들의 빌드 및 배포 자동화 구축
-            - 데이터베이스 마이그레이션 관리 체계 구축
+            - 개요
 
           <strong>❏ 역할</strong>
             - 서비스 버전 업데이트 체계 구축 및 자동화
@@ -299,135 +256,34 @@ content:
             <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/>
             - <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
             <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>
             <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
             <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU&logoColor=white"/>
             <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
             - <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
             <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo/NGINX&logoColor=white"/>
             <img src="https://img.shields.io/badge/Slack%20WEB%20API-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-            <mark>Flyway</mark>
-            - <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> :
-            <mark>CodeBuild</mark> <mark>CodeDeploy</mark> <mark>CodePipeline</mark> <mark>S3</mark>
-            <mark>EC2</mark> <mark>ELB</mark> <mark>RDS</mark> <mark>SNS</mark> <mark>Lambda</mark>
-
-          <strong>❏ 성과</strong>
-            - 광고주 광고 사이트 초기 단계부터 설계 및 개발
-
-      - layout: left
-        sub_title: 광고 플랫폼 Cloud Architecture Design 및 IoC 개발<br />(DevOps)
-        caption: Motov<br />20.09 ~ 현재
-        description: |
-          <strong>❏ 프로젝트 개요</strong>
-            - 광고주 플랫폼의 AWS Cloud Network Architecture 설계 및 구축
-            - IoC(Infrastructure as Code)를 통한 클라우드 관리를 위한 개발
-
-          <strong>❏ 역할</strong>
-            - AWS Cloud Architecture 설계 및 구축
-            - AWS Terraform과 CDK를 이용한 IoC 진행
-
-          <strong>❏ 사용 기술</strong>
-            - <img src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+            <img src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+            <img src="https://img.shields.io/badge/AWS%20VPC-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
             <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/AWS%20VPC-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-            <mark>VPC</mark> <mark>Subnet</mark> <mark>Internet Gateway</mark> <mark>NAT Gateway</mark>
-            <mark>Route</mark> <mark>EndPoint</mark> <mark>Session Manager</mark>
-
-          <strong>❏ 성과</strong>
-            - 광고주 광고 사이트 초기 단계부터 설계 및 개발
-
-      - layout: left
-        sub_title: NAC 관리자 웹 서비스 개발<br />(Front-End / DevOps)
-        caption: NetMan<br />18.01 ~ 19.05
-        description: |
-          <strong>❏ 프로젝트 개요</strong>
-            - 웹 서비스 기반 OS 형태의 네트워크 관리자 콘솔 개발
-            - 기존의 Window 기반의 네트워크 관리자 콘솔은 배포와 수정이 어려움 발생
-            - Spring Cloud 도입
-
-          <strong>❏ 역할</strong>
-            - web frontend 개발
-            - API 설계 참여 (swagger)
-            - 개발 환경 구축 가이드 문서 통합 (confluence)
-            - Git 레포지토리 관리 (서브모듈 구성 관리)
-            - 지속적인 통합 및 배포 가능하도록 구성 및 관리 (bamboo 프로젝트 구성 및 스크립트 개발)
-            - MFC/C#으로 개발된 기존의 네트워크 관리 애플리케이션을 웹 서비스 앱으로 마이그레이션(또는 신규 개발)
-            - 빌드 및 배포 자동화 구축 (bamboo)
-
-          <strong>❏ 사용 기술</strong>
             - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
             <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JavaScript%20ES6-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
             <img src="https://img.shields.io/badge/Sencha%20ExtJS6-86BC40?style=flat-square&logo=Sencha&logoColor=white"/>
-            <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
             <img src="https://img.shields.io/badge/ESLint%20AirBnB-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
             - <img src="https://img.shields.io/badge/Git%20Submodule-F05032?style=flat-square&logo=Git&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
             <img src="https://img.shields.io/badge/Confluence%20Wiki-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
             <img src="https://img.shields.io/badge/Bamboo-0052CC?style=flat-square&logo=Bamboo&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Chef-F09820?style=flat-square&logo=Chef&logoColor=white"/>
-
-          <strong>❏ 성과</strong>
-            - 웹 서비스 앱 (대시보드, 네트워크 관리, DHCP 관리 앱) 개발
-            - CI / CD 도입
-            - Front End 코딩 스타일 통합 (ESLint, GitHook)
-
-      - layout: left
-        sub_title: Manager Server Team CI/CD 프로세스 개선 및 관리<br />(DevOps)
-        caption: NetMan<br />19.01 ~ 20.09
-        description: |
-          <strong>❏ 프로젝트 개요 / 목표</strong>
-            - 빌드, 패키지, 테스트 및 배포 프로세스 개편 및 관리
-            - 서버 장비에 탑재될 소프트웨어 설치 패키지 개선
-            - 설치 패키지의 신뢰성 확보 (기존 Bash Script로 제작된 패키지의 예외 처리 부족으로 인한 신뢰성 부족)
-            - 형상 관리 도구와 CI/CD 서버 구축을 통한 자동화 프로세스 도입
-
-          <strong>❏ 역할</strong>
-            - make와 bash Script를 통하여 서비스 빌드 개선
-            - Docker Image 제작을 통하여 빌드 및 개발 환경 통합
-            - 형상 관리 도구 사용 (Chef)을 통한 패키지 신뢰도 개선
-            - 가상머신을 보다 쉽게 관리 할 수 있는 Vagrant와 스크립트 작성으로 자동화 테스팅 환경 구축
-            - 지속적인 통합 및 배포 도구(Bamboo) 도입으로 CI/CD 서버 구축
-
-          <strong>❏ 사용 기술</strong>
-            - <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
             <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Bamboo-0052CC?style=flat-square&logo=Bamboo&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-            <mark>make</mark>
-            <img src="https://img.shields.io/badge/Chef-F09820?style=flat-square&logo=Chef&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/Chef-F09820?style=flat-square&logo=Chef&logoColor=white"/>
             <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=Vagrant&logoColor=white"/>
             <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU&logoColor=white"/>
-
-          <strong>❏ 성과</strong>
-            - 기존보다 잦은 휴먼 에러를 제거
-            - C/C++ 서비스 빌드 자동화 도입
-            - 패키지 제작 자동화 도입, 제작 시간 단축, 설치 테스트 자동화
-            - 설치 패키지의 신뢰성을 높이고 비지니스 개발에 집중 할 수 있도록 CI/CD 서버 도입
-            - Git Flow 도입으로 협업 환경 개선
-            - 개발 환경 통합
-
-      - layout: left
-        sub_title: 네트워크 인증 및 자산 신청 서비스<br />관리자 설정 서비스<br />개발 및 유지보수<br />(Full Stack)
-        caption: NetMan<br />19.01 ~ 20.09
-        description: |
-          <strong>❏ 프로젝트 개요</strong>
-            - 웹 서비스 기반의 네트워크 관리자 콘솔(설정/관리 기능) 개발 및 유지보수를 담당
-
-          <strong>❏ 역할</strong>
-            - 웹 서비스 개발 및 유지보수 (Apache2, PHP, MySQL, JavaScript, Jquery, JQ Widget)
-
-          <strong>❏ 사용 기술</strong>
             - <img src="https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white"/>
             <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+            - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
             <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-            <mark>JQ Widget</mark>
 
           <strong>❏ 성과</strong>
             - PHP 7 버전 업그레이드에 따른 소스 마이그레이션
