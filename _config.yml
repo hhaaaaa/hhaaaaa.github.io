@@ -49,45 +49,28 @@ darkmode: never
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-# about_profile_image: https://avatars.githubusercontent.com/u/49668613?v=4
 about_profile_image: https://drive.google.com/uc?id=19auG9OckT8OPs3mUj71tRSqYQX7nYHe_
 about_content: |
-  간단한 설명
-
-  간단한 자기소개
+  계속해서 성장하고 싶은 프론트엔드 개발자 하현입니다.<br />
+  블라블라
 
   <hr />
 
-  `제목`
+  `도전 부족채워` <br />
+  학부, 국비, 인턴
 
-  - 내용1
-  - 내용2
+  `학습 발전` <br />
+  리액트, 훅스, 상태관리
 
-  `Front-End 개발을 좋아합니다.`
+  `프론트 재밌어` <br />
+  육아의신, 사용자 많아짐, 피드백유지보수
 
-  - 사용자 경험 증대에 보다 앞장 설 수 있는 점에 매력을 느껴 Front-End 개발자를 시작하게 되었습니다.
-  - 사용자 입장을 고려하고 디자이너와 소통하며 보다 좋은 사용자 경험을 끌어내려고 노력합니다.
-  - 항상 새로운 것을 공부하며 좋은 서비스를 개발하기 위해 노력합니다.
+  `포부` <br />
+  계획, 포부
 
-  `레거시 시스템이 두렵지 않습니다.`
+  <hr />
 
-  - APM(Apache, PHP, MySQL) 기반의 레거시 웹 서비스 운영 경험
-  - 네트워크 접근 제어 솔루션 관리자 콘솔 마이그레이션 경험 (JQuery → ExtJS)
-  - 광고 플랫폼 사이트 고도화 및 마이그레이션 (JQuery → React)
-
-  `협업 능력이 저의 제일 큰 장점 입니다.`
-
-  - 좋은 개발 문화를 만드는데 앞장서며 관리 및 협업 도구를 잘 쓰고싶어합니다.
-  - JIRA Sprint 리더 경험이 있으며 Wiki 문서 작성하고 `좋아요 👍🏻` 받는 것을 좋아합니다.
-  - Git을 자유자제로 사용할 수 있습니다.
-
-  `동료들도 저의 고객입니다.`
-
-  - 저와 동료들 모두가 개발하는데 집중할 수 있는 환경을 만드는 것은 저의 고민 거리 중 하나 입니다.
-  - 효율적으로 일하고 싶습니다.
-  - 때문에 DevOps에 관심이 많습니다.
-
-  주요 관심 파트 : <mark>WEB</mark> , <mark>Front-End</mark> , <mark>DevOps</mark>
+  주요 관심 파트 : <mark>WEB</mark> , <mark>Front-End</mark>
 
 content:
   - title: Skill
@@ -109,16 +92,16 @@ content:
                   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
                   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
                   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-                  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
                   <br /><br />
                   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
                   <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/>
                   <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
                   <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
                   <br /><br />
-                  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
                   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
                   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
                 </div>
               </td>
             </tr>
@@ -135,15 +118,19 @@ content:
                 <div style="display: inline-block;text-align: left;margin-bottom: 20px;min-width: 350px;">
                   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
                   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-                  Nginx_icon<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo/nginx&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
                   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
                   <br /><br />
                   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white"/>
                   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white"/>
                   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
                   <br /><br />
-                  spring maven etc
+                  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/JSP-333333?style=flat-square&logo=JSP&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/MyBatis-333333?style=flat-square&logo=MyBatis&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white"/>
                 </div>
               </td>
             </tr>
@@ -159,7 +146,7 @@ content:
               <td style="border: none; width: 70%;">
                 <div style="display: inline-block;text-align: left;margin-bottom: 20px;min-width: 350px;">
                   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-                  Eclipse
+                  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
                 </div>
               </td>
             </tr>
@@ -193,7 +180,7 @@ content:
           지금까지의 프로젝트 중 Front-End와 관련된 주요 프로젝트 입니다.
       - layout: left
         sub_title: 육아의 신 App 웹뷰 개발<br />
-        caption: (주)원더풀플랫폼<br />20.12 ~ 현재
+        caption: (주)원더풀플랫폼<br />2020.12 ~ 현재
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
         # additional_links:
@@ -206,148 +193,94 @@ content:
         #############육아의신 Pdf 파일들 보면서 적으면 될듯!!!!!!!!!!!!!!!!!
         description: |
           <strong>❏ 프로젝트 개요</strong>
-            - 광고 플랫폼을 버전 2.0에서 3.0 개발을 진행하면서 플랫폼 자체를 새롭게 개발하여 고도화하는 프로젝트
-            - TTD(Taxi Top Driver)라고 불리는 택시 상단에 올라가는 디스플레이에서 송출할 광고를 관리하는 사이트 개발
-            - <a href="https://github.com/InteractiveAdvertisingBureau/OpenDirect">OpenDirect</a> 규격에 따른 사이트 개발
+            - 개요
 
           <strong>❏ 역할</strong>
             - ~ 육아의 신 App 커뮤니티 웹뷰 Front-End 개발
             - Zeplin을 바탕으로 디자이너와 소통을 통한 UX 디자인 참여
+            - Nginx ~
             - 육아의 신 App 커뮤니티 웹뷰 Front-End 빌드 및 배포
+            - 육아의 신 App 커뮤니티 초기 단계부터 설계 및 개발
 
           <strong>❏ 사용 기술</strong>
             - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JavaScript%20ES6-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
             - <img src="https://img.shields.io/badge/React%20Hooks-61DAFB?style=flat-square&logo=React&logoColor=black"/>
             <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Redux%20Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
             - <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
             <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
             - <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+            <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
             - <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
             <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
 
-          <strong>❏ 성과</strong>
-            - 육아의 신 App 커뮤니티 초기 단계부터 설계 및 개발
-
       - layout: left
-        sub_title: 프로젝트명<br />(DevOps)
-        caption: 기관명<br />기간
+        sub_title: AVAdin Works App 웹뷰 개발<br />
+        caption: (주)원더풀플랫폼<br />2020.12 ~ 현재
         description: |
           <strong>❏ 프로젝트 개요</strong>
             - 개요
 
           <strong>❏ 역할</strong>
-            - 서비스 버전 업데이트 체계 구축 및 자동화
-            - 사내 Git flow 정의
-            - 기존의 CI/CD 서버에서 마이그레이션 (Jenkins)
-            - 서비스 환경 별 빌드 및 배포 프로세스 Pipeline화 (AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy)
-            - AWS RDS(Aurora) 마이그레이션 자동화 구축 (flyway)
-            - Blue/Green 무중단 배포 (Nginx, Docker)
-            - JIRA 이슈 스프린트 리더
+            - ~ AVAdin Works App 웹뷰 Front-End 개발
+            - Zeplin을 바탕으로 디자이너와 소통을 통한 UX 디자인 참여
+            - Nginx ~
+            - AVAdin Works App 관리자 페이지, 팀 세부 페이지, 근무카드 작성 페이지 웹뷰 Front-End 빌드 및 배포
 
           <strong>❏ 사용 기술</strong>
-            - <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/>
             - <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
             <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
-            <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU&logoColor=white"/>
             <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-            <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo/NGINX&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Slack%20WEB%20API-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+            <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
             - <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-            <img src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-            <img src="https://img.shields.io/badge/AWS%20VPC-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white"/>
             - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Sencha%20ExtJS6-86BC40?style=flat-square&logo=Sencha&logoColor=white"/>
             <img src="https://img.shields.io/badge/ESLint%20AirBnB-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/Git%20Submodule-F05032?style=flat-square&logo=Git&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Confluence%20Wiki-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Bamboo-0052CC?style=flat-square&logo=Bamboo&logoColor=white"/>
             - <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/Chef-F09820?style=flat-square&logo=Chef&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=Vagrant&logoColor=white"/>
-            <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white"/>
-            <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
             - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
             <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-
-          <strong>❏ 성과</strong>
-            - PHP 7 버전 업그레이드에 따른 소스 마이그레이션
-            - 기존의 HTML, PHP, JavaScript가 같이 쓰였던 소스를 MVC 패턴을 기반으로 분리하여 개선
-            - PHP 기반의 Restful API로 변환하여 재사용성과 확장성 마련
 
   - title: Experience
     layout: list
     content:
       - layout: left
-        title: Motov
-        sub_title: 광고 플랫폼 개발팀<br />Front-End/DevOps Engineer
-        caption: 20.09 ~ 현재
+        sub_title: Hi Vacation
+        caption: 솔데스크 IT 아카데미<br />2019.01 ~ 2019.04
         description: |
-          * 광고 플랫폼의 Web 사이트 개발 (Front-End)
-          * 광고 플랫폼의 CI/CD 구축 (DevOps)
-          * 광고 플랫폼의 Cloud Architecture 설계 및 IoC 개발 (DevOps)
-          * AWS Cloud 관리자
-          * 사내 세미나 활동 및 외부 활동
-            * AWS StartUp Team과 소통하여 지속적인 Cloud 아키텍쳐 개선 (20.09 ~)
-            * AWS Network 아키텍처 구성 및 세미나 (21.02.15)
-            * 광고 플랫폼 아키텍쳐 구성 및 배포 (21.02.17)
-            * AWS IAM 계정 사용 정책 세미나 (21.03.30) (<a href="https://minemanemo.tistory.com/140">포스팅 바로가기</a>)
-            * AWS Session Manager를 이용한 보안 접속 방법 세미나 (21.03.30)
-            * 신규 CI/CD 프로세스 세미나 (21.04.12)
+          <strong>❏ 프로젝트 개요</strong>
+            - 여행 계획을 세우는 과정에서 숙박, 음식점 등을 선택하는데 불편함을 해소하기 위한 웹 프로그램
+            - 여행 동선을 계획하는데 편리한 기능 제공
 
-      - layout: left
-        title: NetMan
-        sub_title: Manager Server 팀<br />WEB/DevOps Enginner
-        caption: 18.01 ~ 20.09
-        description: |
-          * 네트워크 접근 제어 솔루션(NAC)의 관리 서버팀에서 근무
-          * Web기반 OS 형태의 네트워크 매니저 서비스 신규 개발 (Front-End, DevOps)
-          * 팀의 전반적인 CI/CD Process 개편 및 자동화 적용
-          * PHP 기반의 WEB 서비스 개발 및 유지보수
-          * C++ 기반의 Linux App/서비스 개발 및 유지보수
-          * Atlassian의 Software 관리자 (JIRA, Confluence, Bambbo)
-          * 연구소에 사내 메신저 도입(KakaoTalk → HipChat → Slack → MS Teams)
-          * 2018.10 우수 사원 선정 (<a href="https://blog.naver.com/netman02/221390240278">블로그 포스팅 바로가기</a>)
+          <strong>❏ 역할</strong>
+            - 웹 페이지 디자인
+            - Google Maps API를 적용해 여행 일정을 계획하는 기능 구현
+              - 원하는 키워드로 장소 검색
+              - 찜 기능
+              - 일정 저장 (캘린더, My Page에서 확인 가능)
+              - 예산 계획
 
-      - layout: left
-        title: NetMan
-        sub_title: 인턴십
-        caption: 17.03 ~ 17.09 (FullTime)<br />17.09 ~ 17.12 (PartTime)
-        description: |
-          * ICT 인턴십 프로그램을 통한 인턴십 활동 (FullTime)
-          * ICT 인턴십 종료 후 학교 수업과 회사를 병행 (PartTime)
-          * 각종 서비스의 테스팅을 위한 Tool 및 테스팅 자동화 구축
-            * Python을 이용한 C 구조체 커스텀 패킷 발생기 제작 (17.03 ~ 17.05)
-            * Robot Framework를 이용한 Windows 단말 테스팅 자동화 (17.05 ~ 17.07)
-            * Vagrant를 이용한 Windows OS 단말 원격 테스팅 자동화 (17.08 ~ 17.12)
+          <strong>❏ 사용 기술</strong>
+            - <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JSP-333333?style=flat-square&logo=JSP&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MyBatis-333333?style=flat-square&logo=MyBatis&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+            <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 
-  - title: Resource
+  - title: About Me
     layout: list
     content:
       - layout: left
-        title: 개인 블로그
-        sub_title: https://minemanemo.tistory.com
+        sub_title: 소제목
         description: |
-          * 개인 기술 블로그 입니다.
-          * 업무 중 발생한 트러블 슈팅 내용, 새롭게 공부한 내용 등 개발에 관련된 내용을 주제로 포스팅 합니다.
-          * 사내 Wiki에 적은 글 중에서 공유하면 좋을 것 같은 내용은 옮기기도 합니다.
-          * 최대한 머리가 아닌 글로 기억하려고 노력합니다.
-          * 주중 일 평균 100명 방문자 블로그 입니다.
+          자기소개서 작성
 
 # Footer
 footer_show_references: true
