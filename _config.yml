@@ -51,22 +51,11 @@ darkmode: never
 # about_title: About Me (Use this to override about section title)
 about_profile_image: https://drive.google.com/uc?id=19auG9OckT8OPs3mUj71tRSqYQX7nYHe_
 about_content: |
-  계속해서 성장하고 싶은 프론트엔드 개발자 하현입니다.<br />
-  블라블라
-
-  <hr />
-
-  `도전 부족채워` <br />
-  학부, 국비, 인턴
-
-  `학습 발전` <br />
-  리액트, 훅스, 상태관리
-
-  `프론트 재밌어` <br />
-  육아의신, 사용자 많아짐, 피드백유지보수
-
-  `포부` <br />
-  계획, 포부
+  <p>계속해서 성장하고 싶은 프론트엔드 개발자 하현입니다.</p>
+  학부 시절을 거치며 전공 기초 지식을 갖췄고, <br />
+  국비 지원 교육을 수강하며 웹에 대한 이해도를 높였습니다.<br />
+  인턴 과정을 통해 많은 사람들이 이용하고 있는 App의 WebView를 개발하며 프론트엔드 개발에 재미를 느꼈습니다.<br />
+  <p>자기 발전을 위해 계속해서 학습하고, 회사와 함께 성장할 수 있는 개발자가 되겠습니다.</p>
 
   <hr />
 
@@ -190,17 +179,15 @@ content:
         #   - title: Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #############육아의신 Pdf 파일들 보면서 적으면 될듯!!!!!!!!!!!!!!!!!
         description: |
           <strong>❏ 프로젝트 개요</strong>
-            - 개요
+            - AI 기반 육아 상담 서비스를 지원하는 애플리케이션
+            - 발달 심리 전문가가 참여하는 AI 아바타를 통해 부모와의 양방향 소통으로 맞춤형 육아 지식을 제공
 
           <strong>❏ 역할</strong>
-            - ~ 육아의 신 App 커뮤니티 웹뷰 Front-End 개발
+            - 전문가와의 양방향 소통이 가능한 육아의 신 App 커뮤니티 WebView 초기 단계부터 설계 및 개발
             - Zeplin을 바탕으로 디자이너와 소통을 통한 UX 디자인 참여
-            - Nginx ~
-            - 육아의 신 App 커뮤니티 웹뷰 Front-End 빌드 및 배포
-            - 육아의 신 App 커뮤니티 초기 단계부터 설계 및 개발
+            - 육아의 신 App 커뮤니티 WebView Front-End 빌드 및 배포
 
           <strong>❏ 사용 기술</strong>
             - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -210,38 +197,47 @@ content:
             <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/>
             - <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
             <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-            <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
             - <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
             <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+            <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
 
       - layout: left
         sub_title: AVAdin Works App 웹뷰 개발<br />
         caption: (주)원더풀플랫폼<br />2020.12 ~ 현재
         description: |
           <strong>❏ 프로젝트 개요</strong>
-            - 개요
+            - 비대면 재택 근무 환경에서 기업 내 임직원들의 출퇴근 관리 및 업무 효율 증진을 위한 애플리케이션
+            - 얼굴 인식을 통한 트래킹, 자리이탈 감지 기능 제공
+            - 녹화나 감시 형태가 아닌 업무 시간을 측정
+            - 업무 보고가 간소화되고, 관리자에게 효율적인 업무 근태 기록을 제공하는 서비스
 
           <strong>❏ 역할</strong>
-            - ~ AVAdin Works App 웹뷰 Front-End 개발
+            - AVAdin Works App 팀 관리자 화면, 회사 관리자 화면, 팀 세부 화면, 근무카드 작성 화면 부분 Webview 개발
             - Zeplin을 바탕으로 디자이너와 소통을 통한 UX 디자인 참여
-            - Nginx ~
-            - AVAdin Works App 관리자 페이지, 팀 세부 페이지, 근무카드 작성 페이지 웹뷰 Front-End 빌드 및 배포
+            - AVAdin Works App WebView Front-End 빌드 및 배포
 
           <strong>❏ 사용 기술</strong>
-            - <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-            <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-            <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
             - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-            <img src="https://img.shields.io/badge/ESLint%20AirBnB-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+            - <img src="https://img.shields.io/badge/React%20Hooks-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+            <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+            <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+            
+            - <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-            <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 
   - title: Experience
     layout: list
@@ -268,11 +264,12 @@ content:
             <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
             <img src="https://img.shields.io/badge/MyBatis-333333?style=flat-square&logo=MyBatis&logoColor=white"/>
             <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
             - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
             <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
   - title: About Me
     layout: list
@@ -281,6 +278,20 @@ content:
         sub_title: 소제목
         description: |
           자기소개서 작성
+
+          `도전 부족채워` <br />
+          학부, 국비, 인턴
+
+          `학습 발전` <br />
+          리액트, 훅스, 상태관리
+
+          `프론트 재밌어` <br />
+          육아의신, 사용자 많아짐, 피드백유지보수
+
+          `포부` <br />
+          계획, 포부
+
+          <hr />
 
 # Footer
 footer_show_references: true
