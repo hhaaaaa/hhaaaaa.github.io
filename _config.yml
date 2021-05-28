@@ -63,103 +63,61 @@ about_content: |
 
 content:
   - title: Skill
-    layout: text
-    content: |
-      <div style="max-width: 1000px; margin: 0 auto;">
-        <div style="text-align: center;margin-bottom: 20px;min-width: 350px;font-size:1.4rem;font-style: italic;">
-          업무 혹은 프로젝트 경험에 사용했던 기술 혹은 도구들입니다.<br />
-        </div>
-        
-        <div style="margin: 0 auto;">
-          <table>
-            <tr>
-              <td style="border: none; width: 30%; vertical-align: top; padding-left: 15px;">
-                <p style="text-align: left;font-weight: bold;">💻 Front-End 💻</p>
-              </td>
-              <td style="border: none; width: 70%;">
-                <div style="display: inline-block;text-align: left;margin-bottom: 20px;min-width: 350px;">
-                  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-                  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-                  <br /><br />
-                  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-                  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
-                  <br /><br />
-                  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-                </div>
-              </td>
-            </tr>
-          </table>
-        </div><br/>
+    layout: list
+    content:
+      - layout: top-middle
+        quote: >
+          업무 혹은 프로젝트 경험에 사용했던 기술 혹은 도구들입니다.
 
-        <div style="margin: 0 auto;">
-          <table>
-            <tr>
-              <td style="border: none; width: 30%; vertical-align: top; padding-left: 15px;">
-                <p style="text-align: left;font-weight: bold;">🔑 Back-End 🔑</p>
-              </td>
-              <td style="border: none; width: 70%;">
-                <div style="display: inline-block;text-align: left;margin-bottom: 20px;min-width: 350px;">
-                  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-                  <br /><br />
-                  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
-                  <br /><br />
-                  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/JSP-333333?style=flat-square&logo=JSP&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/MyBatis-333333?style=flat-square&logo=MyBatis&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white"/>
-                </div>
-              </td>
-            </tr>
-          </table>
-        </div><br/>
+      - layout: left
+        sub_title: 💻 Front-End 💻<br />
+        description: |
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+          <br />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+          <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/>
+          <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
+          <br />
+          <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
+          <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
 
-        <div style="margin: 0 auto;">
-          <table>
-            <tr>
-              <td style="border: none; width: 30%; vertical-align: top; padding-left: 15px;">
-                <p style="text-align: left;font-weight: bold;">🛠 Tools 🛠</p>
-              </td>
-              <td style="border: none; width: 70%;">
-                <div style="display: inline-block;text-align: left;margin-bottom: 20px;min-width: 350px;">
-                  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
-                </div>
-              </td>
-            </tr>
-          </table>
-        </div><br/>
+      - layout: left
+        sub_title: 🔑 Back-End 🔑<br />
+        description: |
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+          <br />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+          <br />
+          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JSP-333333?style=flat-square&logo=JSP&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MyBatis-333333?style=flat-square&logo=MyBatis&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white"/>
 
-        <div style="margin: 0 auto;">
-          <table>
-            <tr>
-              <td style="border: none; width: 30%; vertical-align: top; padding-left: 15px;">
-                <p style="text-align: left;font-weight: bold;">⚙️ Etc ⚙️</p>
-              </td>
-              <td style="border: none; width: 70%;">
-                <div style="display: inline-block;text-align: left;margin-bottom: 20px;min-width: 350px;">
-                  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-                </div>
-              </td>
-            </tr>
-          </table>
-        </div>
-      </div>
+      - layout: left
+        sub_title: 🛠 Tools 🛠<br />
+        description: |
+          <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
+
+      - layout: left
+        sub_title: ⚙️ Etc ⚙️<br />
+        description: |
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
   - title: Project
     layout: list
@@ -275,23 +233,53 @@ content:
     layout: list
     content:
       - layout: left
+        sub_title: 한 걸음 한 걸음씩
+        description: |
+          <span style="font-size: 14px;">
+            `부족한 부분을 하나씩 채워가며 조금씩 성장해왔습니다.`
+          </span><br />
+          <div style="font-size: 14px;">
+            &nbsp;&nbsp;컴퓨터정보학과에 진학해 IT 관련 기초 지식을 쌓았고, 해당 지식들을 적용해 다양한 프로젝트 과제를 수행했습니다. 
+            그 중 데이터베이스를 연동한 프로그램이라는 주제로 참여했던 팀 프로젝트에서 웹 쇼핑몰을 구현했습니다.<br/>
+            &nbsp;&nbsp;좋은 성적은 받았지만 결과물이 아쉽다는 생각이 들었고, 보다 심화된 학습을 위해 국비 지원 교육을 수강했습니다. 
+            6개월 동안의 교육 과정을 통해 Spring MVC 프로그래밍을 중심으로 웹 개발에 대한 이해도를 높였습니다.<br/>
+            &nbsp;&nbsp;또한 인턴 기간 동안 실제 서비스되고 있는 애플리케이션의 웹뷰를 개발하며 프론트엔드 개발자로 성장하고 있습니다.
+          </div>
+
+      - layout: left
         sub_title: 소제목
         description: |
-          자기소개서 작성
+          <span style="font-size: 14px;">
+            `학습 발전` 
+          </span><br />
+          <div style="font-size: 14px;">
+            &nbsp;&nbsp;리액트, 훅스, 상태관리
+          </div>
 
-          `도전 부족채워` <br />
-          학부, 국비, 인턴
+      - layout: left
+        sub_title: 소제목
+        description: |
+          <span style="font-size: 14px;">
+            `프론트 재밌어` 
+          </span><br />
+          <div style="font-size: 14px;">
+            &nbsp;&nbsp;육아의신, 사용자 많아짐, 피드백유지보수
+          </div>
 
-          `학습 발전` <br />
-          리액트, 훅스, 상태관리
+      - layout: left
+        sub_title: 소제목
+        description: |
+          <span style="font-size: 14px;">
+            `포부`
+          </span><br />
+          <div style="font-size: 14px;">
+            &nbsp;&nbsp;계획, 포부
+          </div>
 
-          `프론트 재밌어` <br />
-          육아의신, 사용자 많아짐, 피드백유지보수
-
-          `포부` <br />
-          계획, 포부
-
-          <hr />
+  # - title: Skill
+  #   layout: text
+  #   content: |
+  #     <div>hmm</div>
 
 # Footer
 footer_show_references: true
