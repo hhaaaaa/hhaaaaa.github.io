@@ -233,7 +233,7 @@ content:
     layout: list
     content:
       - layout: left
-        sub_title: 한 걸음 한 걸음씩
+        sub_title: 한 걸음씩 내딛고
         description: |
           <span style="font-size: 14px;">
             `부족한 부분을 하나씩 채워가며 조금씩 성장해왔습니다.`
@@ -247,13 +247,18 @@ content:
           </div>
 
       - layout: left
-        sub_title: 소제목
+        sub_title: 새로운 것을 배우며
         description: |
           <span style="font-size: 14px;">
-            `학습 발전` 
+            `새로운 것을 배우는 것에 대해 두려워하지 않겠습니다.` 
           </span><br />
           <div style="font-size: 14px;">
-            &nbsp;&nbsp;리액트, 훅스, 상태관리
+            &nbsp;&nbsp;인턴 과정을 시작하며 React.js를 이용해 애플리케이션의 WebView를 맡아 개발하라는 업무 전달을 받았습니다.
+            React.js를 처음 접해봤고 바로 업무를 주셔서 당황했지만, 직접 경험해보며 빠르게 발전할 수 있는 기회라고 생각했습니다.<br/>
+            &nbsp;&nbsp;재택 근무 환경에서 임직원들의 업무 효율 증진을 위한 AVAdin Works 애플리케이션의 WebView를 맡아서 개발을 시작했고,
+            다양한 자료를 참고하며 개발을 위한 환경 설정을 했습니다.<br/>
+            &nbsp;&nbsp;기본적인 사용법을 익히기 위해 공식 문서를 보며 공부했고, 해당 WebView의 기본적인 틀이 잡혀있는 코드를 분석했습니다.
+            이러한 학습을 바탕으로 팀장용 관리자 뷰, 대표용 관리자 뷰, 팀 세부 뷰, 근무카드 작성 뷰를 작업할 수 있었습니다.
           </div>
 
       - layout: left
@@ -263,7 +268,7 @@ content:
             `프론트 재밌어` 
           </span><br />
           <div style="font-size: 14px;">
-            &nbsp;&nbsp;육아의신, 사용자 많아짐, 피드백유지보수
+            &nbsp;&nbsp;육아의신, 사용자 많아짐, 피드백유지보수, 제플린디자인참여매력느낌
           </div>
 
       - layout: left
@@ -273,7 +278,8 @@ content:
             `포부`
           </span><br />
           <div style="font-size: 14px;">
-            &nbsp;&nbsp;계획, 포부
+            &nbsp;&nbsp;계획, 포부, 소통제플린
+            보다 좋은 서비스를 개발하기 위해 노력하겠습니다
           </div>
 
   # - title: Skill
