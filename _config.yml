@@ -51,11 +51,17 @@ darkmode: never
 # about_title: About Me (Use this to override about section title)
 about_profile_image: https://drive.google.com/uc?id=19auG9OckT8OPs3mUj71tRSqYQX7nYHe_
 about_content: |
-  <p>계속해서 성장하고 싶은 프론트엔드 개발자 하현입니다.</p>
-  학부 시절을 거치며 전공 기초 지식을 갖췄고, <br />
-  국비 지원 교육을 수강하며 웹에 대한 이해도를 높였습니다.<br />
-  인턴 과정을 통해 많은 사람들이 이용하고 있는 App의 WebView를 개발하며 프론트엔드 개발에 재미를 느꼈습니다.<br />
-  <p>자기 발전을 위해 계속해서 학습하고, 회사와 함께 성장할 수 있는 개발자가 되겠습니다.</p>
+  <p style="font-size: 15px;">
+    계속해서 성장하고 싶은 프론트엔드 개발자 하현입니다.
+  </p>
+  <p style="font-size: 15px;">
+    학부 시절을 거치며 전공 기초 지식을 갖췄고, <br />
+    국비 지원 교육을 수강하며 웹에 대한 이해도를 높였습니다.<br />
+    인턴 과정을 통해 많은 사람들이 이용하고 있는 App의 WebView를 개발하며 프론트엔드 개발에 재미를 느꼈습니다.<br />
+  </p>
+  <p style="font-size: 15px;">
+    자기 발전을 위해 계속해서 학습하고, 회사와 함께 성장할 수 있는 개발자가 되겠습니다.
+  </p>
 
   <hr />
 
@@ -72,34 +78,34 @@ content:
       - layout: left
         sub_title: 💻 Front-End 💻<br />
         description: |
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+          - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
           <br />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+          - <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
           <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/>
           <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
           <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
           <br />
-          <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+          - <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
           <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
           <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
 
       - layout: left
         sub_title: 🔑 Back-End 🔑<br />
         description: |
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+          - <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
           <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
           <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
           <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
           <br />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+          - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
           <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
           <img src="https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white"/>
           <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
           <br />
-          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+          - <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
           <img src="https://img.shields.io/badge/JSP-333333?style=flat-square&logo=JSP&logoColor=white"/>
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
           <img src="https://img.shields.io/badge/MyBatis-333333?style=flat-square&logo=MyBatis&logoColor=white"/>
@@ -108,13 +114,13 @@ content:
       - layout: left
         sub_title: 🛠 Tools 🛠<br />
         description: |
-          <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+          - <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
           <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
 
       - layout: left
         sub_title: ⚙️ Etc ⚙️<br />
         description: |
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+          - <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -143,7 +149,7 @@ content:
             - 발달 심리 전문가가 참여하는 AI 아바타를 통해 부모와의 양방향 소통으로 맞춤형 육아 지식을 제공
 
           <strong>❏ 역할</strong>
-            - 전문가와의 양방향 소통이 가능한 육아의 신 App 커뮤니티 WebView 초기 단계부터 설계 및 개발
+            - 전문가와의 양방향 소통이 가능한 육아의 신 App 커뮤니티 WebView 구조 설계 및 개발
             - Zeplin을 바탕으로 디자이너와 소통을 통한 UX 디자인 참여
             - 육아의 신 App 커뮤니티 WebView Front-End 빌드 및 배포
 
@@ -262,17 +268,22 @@ content:
           </div>
 
       - layout: left
-        sub_title: 소제목
+        sub_title: 동료들, 유저들과 소통하는
         description: |
           <span style="font-size: 14px;">
-            `프론트 재밌어` 
+            `동료들, 유저들과 소통하며 즐겁게 작업하겠습니다.` 
           </span><br />
           <div style="font-size: 14px;">
-            &nbsp;&nbsp;육아의신, 사용자 많아짐, 피드백유지보수, 제플린디자인참여매력느낌
+            &nbsp;&nbsp;인턴 기간 중 육아 심리 전문가와 양방향 소통을 지원하는 육아의 신이라는 애플리케이션 개발에 참여했습니다. 
+            네이티브 앱으로 개발 중이었지만 iOS에서 커뮤니티 부분이 미완성이었고, 해당 부분을 WebView로 만들어 하이브리드 앱으로 전환하는 업무를 맡았습니다.<br/>
+            &nbsp;&nbsp;백엔드 개발자와 Swagger를 바탕으로 소통하면서 필요한 사항을 요청했고, 디자이너와 Zeplin을 바탕으로 소통하며 뷰를 만들었습니다. 
+            개발 중에 애플리케이션을 사용하는 유저가 많아짐에 따라 피드백을 받아 필요한 기능을 추가했고, 동작하지 않거나 오류가 있는 부분을 수정하며 유지보수 했습니다.<br/>
+            &nbsp;&nbsp;동료들과의 소통을 통해 직접 개발한 뷰를 유저들이 사용하는 것을 보며 뿌듯함을 느꼈고, 
+            유저들의 피드백을 받아 유지보수 작업을 하는 프로트엔드 개발자의 업무에 재미를 느끼게 됐습니다. 
           </div>
 
       - layout: left
-        sub_title: 소제목
+        sub_title: 위와 연결 흠
         description: |
           <span style="font-size: 14px;">
             `포부`
@@ -280,6 +291,7 @@ content:
           <div style="font-size: 14px;">
             &nbsp;&nbsp;계획, 포부, 소통제플린
             보다 좋은 서비스를 개발하기 위해 노력하겠습니다
+            보다 관리가 용이하고 가독성이 좋은 코드를 개발하고, 보다 좋은 사용자 경험을 이끌어낼 수 있도록 
           </div>
 
   # - title: Skill
