@@ -133,7 +133,7 @@ content:
           지금까지의 프로젝트 중 Front-End와 관련된 주요 프로젝트 입니다.
       - layout: left
         sub_title: 육아의 신 App 웹뷰 개발<br />
-        caption: (주)원더풀플랫폼<br />2020.12 ~ 현재
+        caption: (주)원더풀플랫폼<br />2020.12.31 ~ 현재
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
         # additional_links:
@@ -170,7 +170,7 @@ content:
 
       - layout: left
         sub_title: AVAdin Works App 웹뷰 개발<br />
-        caption: (주)원더풀플랫폼<br />2020.12 ~ 현재
+        caption: (주)원더풀플랫폼<br />2020.12.14 ~ 현재
         description: |
           <strong>❏ 프로젝트 개요</strong>
             - 비대면 재택 근무 환경에서 기업 내 임직원들의 출퇴근 관리 및 업무 효율 증진을 위한 애플리케이션
@@ -197,18 +197,13 @@ content:
             <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
             <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
             <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
-            
-            - <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
   - title: Experience
     layout: list
     content:
       - layout: left
         sub_title: Hi Vacation
-        caption: 솔데스크 IT 아카데미<br />2019.01 ~ 2019.04
+        caption: 솔데스크 IT 아카데미<br />2019.02.13 ~ 2019.04.11
         description: |
           <strong>❏ 프로젝트 개요</strong>
             - 여행 계획을 세우는 과정에서 숙박, 음식점 등을 선택하는데 불편함을 해소하기 위한 웹 프로그램
@@ -268,7 +263,7 @@ content:
           </div>
 
       - layout: left
-        sub_title: 동료들, 유저들과 소통하는
+        sub_title: 동료들, 유저들과 소통해
         description: |
           <span style="font-size: 14px;">
             `동료들, 유저들과 소통하며 즐겁게 작업하겠습니다.` 
@@ -283,15 +278,17 @@ content:
           </div>
 
       - layout: left
-        sub_title: 위와 연결 흠
+        sub_title: 성장하는 프론트엔드 개발자
         description: |
           <span style="font-size: 14px;">
-            `포부`
+            `보다 좋은 서비스를 제공하기 위해 노력하겠습니다.`
           </span><br />
           <div style="font-size: 14px;">
-            &nbsp;&nbsp;계획, 포부, 소통제플린
-            보다 좋은 서비스를 개발하기 위해 노력하겠습니다
-            보다 관리가 용이하고 가독성이 좋은 코드를 개발하고, 보다 좋은 사용자 경험을 이끌어낼 수 있도록 
+            &nbsp;&nbsp;AVAdin Works 및 육아의 신 애플리케이션의 WebView를 맡아 개발하는 동안, 구현 및 유지보수에 온 신경이 집중되어 있었습니다.
+            하지만 최근 React를 위한 상태관리 라이브러리가 있다는 것을 알게 됐고, 컴포넌트 간 용이한 상태 관리를 위해 Redux를 적용시킬 수 있도록 학습하고 있습니다.<br/>
+            &nbsp;&nbsp;또한 다양한 기능을 추가하며 코드를 재작성해야하는 일이 생겨 많은 부분을 수정했지만, 보다 재사용성이 용이하도록 디렉토리의 아토믹 디자인에 대해 고민하고 있습니다.
+            또한 혼자 WebView 개발 작업을 진행해서 Git을 사용하지 않았지만, 추후 원활한 협업을 위해 해당 부분도 공부하고 있습니다.<br/>
+            &nbsp;&nbsp;이러한 노력을 바탕으로 보다 관리가 용이하고 가독성이 좋은 코드를 개발하고, 보다 좋은 사용자 경험을 이끌어낼 수 있도록 노력하겠습니다.
           </div>
 
   # - title: Skill
