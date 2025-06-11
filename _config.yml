@@ -50,13 +50,13 @@ darkmode: never
 # About Section
 about_title: About Me # (Use this to override about section title)
 # about_profile_image: https://drive.google.com/uc?id=19auG9OckT8OPs3mUj71tRSqYQX7nYHe_
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_hha.jpg
 about_content: |
   <p style="font-size: 15px;">
     계속해서 성장해 나가고 싶은 프론트엔드 개발자 하현입니다.
   </p>
   <p style="font-size: 15px;">
-    자기 발전을 위해 끊임없이 학습하고, 함께 성장할 수 있는 개발자가 되겠습니다.
+    자기 발전을 위해 끊임없이 학습하고, 함께 성장해 나가도록 하겠습니다.
   </p>
 
   <hr />
@@ -64,19 +64,19 @@ about_content: |
   `부족한 부분을 하나씩 채워가며 조금씩 성장하고 있습니다.`
 
   - 사용자와 직접 상호작용할 수 있고 사용자 경험을 강화할 수 있다는 점에 끌려 Front-End 개발자가 됐습니다.
-  - 꾸준한 학습을 통해 업무에 필요한 지식을 채우고 있고, 리팩토링 과정의 반복으로 몸으로 익혀 성장하기 위해 노력합니다.
   - 새로운 것을 학습해 부족한 부분을 보완하며 사용자에게 보다 나은 서비스를 제공하기 위해 노력합니다.
+  - 리팩토링 과정의 반복을 통해 코드를 지속적으로 개선하고. 이를 체득해가며 성장하고 있습니다.
 
   `동료들, 유저들과 소통하며 즐겁게 업무에 임하고 있습니다.` 
 
-  - 프로젝트의 기획, 디자인, 개발 단계에 참여해 동료들과 자유롭게 의견을 나누며 작업했습니다.
-  - 사용자의 피드백을 바탕으로 유지보수를 담당하며, 사용자의 니즈를 충족하는 과정에서 뿌듯함을 느낍니다.
+  - 프로젝트의 기획, 디자인, 개발 단계에 참여해 동료들과 자유롭게 의견을 나누며 작업합니다.
+  - 사용자의 피드백을 바탕으로 유지보수를 담당하며, 니즈를 충족하는 과정에서 뿌듯함을 느낍니다.
   - 보다 좋은 사용자 경험을 끌어내기 위해 동료들과 소통하고 사용자의 의견에 귀 기울이고 있습니다. 
 
   `보다 좋은 결과물을 위해 노력합니다.`
 
   - 동료들과의 협업을 위해 관리가 용이하고 가독성이 좋은 코드를 작성하려 노력합니다.
-  - 외부 라이브러리, 디자인 패턴, 테스트 방식 등을 꾸준히 학습해 적용해보며 사용자들의 편의를 위해 노력합니다.
+  - 외부 라이브러리, 디자인 패턴, 테스트 방식 등을 꾸준히 학습하고 적용해보며 사용자들의 편의를 위해 노력합니다.
   - 동료들의 작업 효율과 사용자 만족도 향상을 위해 고민하고, 학습하고, 발전하는 Front-End 개발자가 되겠습니다.
 
   <hr />
@@ -102,19 +102,24 @@ content:
           - <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
           <img src="https://img.shields.io/badge/React--Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+          - <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+          <img src="https://img.shields.io/badge/zustand-ECD53F?style=flat-square&logo=Zustand&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React--Query-FF4154?style=flat-square&logo=React-Query&logoColor=white"/>
           <br />
           - <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
           <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=Testing%20Library&logoColor=white"/>
           <br />
-          - <img src="https://img.shields.io/badge/styled--components/emotion-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+          - <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+          <img src="https://img.shields.io/badge/emotion-DB7093?style=flat-square&logo=emotion&logoColor=white"/>
           <img src="https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
           <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
           <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
           <br />
           - <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+          <img src="https://img.shields.io/badge/npm--workspace-CB3837?style=flat-square&logo=npm&logoColor=white"/>
 
       - layout: left
         sub_title: 🔑 Back-End 🔑<br />
@@ -122,7 +127,7 @@ content:
           - <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
           <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
           <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Amazon--AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white"/>
           <br />
           - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
           <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
@@ -160,6 +165,37 @@ content:
           주요 프로젝트 내용입니다.
 
       - layout: left
+        sub_title: FE 모노레포 구축<br />
+        caption: (주)원더풀플랫폼<br />2024.12.02 ~ 현재
+        description: |
+          <strong>❏ 프로젝트 개요</strong>
+            - 개발, 공통 자원 관리, 유지보수 효율성 향상을 위한 FE 프로젝트 모노레포 구축
+
+          <strong>❏ 역할</strong>
+            - npm workspace를 이용해 모노레포 구축
+            - FE 프로젝트 코드 이식
+            - 공통 자원 추출 (assets, components, config, hooks, types, utils)
+
+          <strong>❏ 사용 기술</strong>
+            - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
+            - <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+            <img src="https://img.shields.io/badge/zustand-ECD53F?style=flat-square&logo=Zustand&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React--Query-FF4154?style=flat-square&logo=React-Query&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white"/>
+            <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+            <img src="https://img.shields.io/badge/npm--workspace-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+            <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+
+      - layout: left
         sub_title: 다솜이와의 대화 체험 웹 App 개발<br />
         caption: (주)원더풀플랫폼<br />2023.10.23 ~ 2023.11.10
         description: |
@@ -176,9 +212,9 @@ content:
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
             - <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
             <img src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
             - <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white"/>
             <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
             <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
@@ -186,21 +222,23 @@ content:
             <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
 
       - layout: left
-        sub_title: 관리자 대시보드(Air Liquide) 개발<br />
-        caption: (주)원더풀플랫폼<br />2023.07.26 ~ 현재
+        sub_title: 관리자 대시보드(산소치료기기 사용자) 개발<br />
+        caption: (주)원더풀플랫폼<br />2023.07.26 ~ 2025.04.02
         description: |
           <strong>❏ 프로젝트 개요</strong>
-            - 산소 치료 중인 환자 관리 및 데이터 조회를 위한 대시보드
+            - 산소치료기기 사용자 관리 및 데이터 조회를 위한 대시보드  (서비스 종료)
             - 환자 데이터 조회, 영상통화, 통계 데이터 조회, 공지사항 발송 등 서비스 제공
             - 환자와 로봇 간 연동 상태 관리
 
           <strong>❏ 역할</strong>
             - 환자(AI 케어 로봇 사용)를 관리하고 관련 데이터를 조회할 수 있는 관리자 대시보드 개발
-            - VitalAire 보호자 App WebView - 홈 탭 개발 : 환자 상세 정보 및 라이프로그 데이터 조회
-            - VitalAire 보호자 App WebView - 건강관리 탭 개발 : 산소 치료 및 헬스케어 기기 사용 경과 조회
-            - '관리자 대시보드(Air Liquide) & VitalAire 보호자 App WebView' Front-End 빌드 및 배포
+            - 전용 보호자 App WebView - 홈 탭 개발 : 환자 상세 정보 및 라이프로그 데이터 조회
+            - 전용 보호자 App WebView - 건강관리 탭 개발 : 산소 치료 및 헬스케어 기기 사용 경과 조회
+            - '관리자 대시보드(산소치료기기 사용자) & 전용 보호자 App WebView' Front-End 빌드 및 배포
             - Zeplin을 바탕으로 디자이너와의 소통을 통해 UX 디자인 참여
             - Figma를 바탕으로 추가 기획 단계에 참여
+            - 전역 상태관리 방식 변경 (Redux > Zustand)
+            - Redux-Saga 비동기 처리 구조 제거 & React-Query 기반 서버 상태 관리 구조로 마이그레이션
 
           <strong>❏ 사용 기술</strong>
             - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -208,9 +246,9 @@ content:
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
             - <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
             <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/zustand-ECD53F?style=flat-square&logo=Zustand&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React--Query-FF4154?style=flat-square&logo=React-Query&logoColor=white"/>
             - <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white"/>
             <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white"/>
             <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
@@ -219,7 +257,7 @@ content:
             <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
 
       - layout: left
-        sub_title: 1thefull 웹 App 개발<br />
+        sub_title: 원더풀플랫폼 홈페이지 개발<br />
         caption: (주)원더풀플랫폼<br />2022.01.04 ~ 현재
         description: |
           <strong>❏ 프로젝트 개요</strong>
@@ -227,8 +265,9 @@ content:
 
           <strong>❏ 역할</strong>
             - 회사 홈페이지 개발
-            - Commit 전 유닛 테스트 과정 추가
+            - 커밋 전 유닛 테스트 과정 추가
             - 홈페이지 Front-End 빌드 및 배포
+            - Naver SEO 설정
 
           <strong>❏ 사용 기술</strong>
             - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -236,9 +275,9 @@ content:
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
             - <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
             <img src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
             - <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
             <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=Testing%20Library&logoColor=white"/>
             - <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white"/>
@@ -269,9 +308,9 @@ content:
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
             - <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
             <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
             - <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white"/>
             <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white"/>
             <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
@@ -290,7 +329,7 @@ content:
           <strong>❏ 역할</strong>
             - 홈 탭 개발 : 날짜 별 피보호자의 데이터 조회
             - 건강관리 탭 개발 : 연동된 여러 기기로 측정된 피보호자의 헬스케어 데이터 조회
-            - 덱스콤 전용 화면 개발 : 타임라인 별 피보호자의 헬스케어 데이터 조회
+            - 혈당측정자 전용 화면 개발 : 타임라인 별 피보호자의 헬스케어 데이터 조회
             - 케비 보호자 App WebView Front-End 빌드 및 배포
             - Zeplin을 바탕으로 디자이너와의 소통을 통해 UX 디자인 참여
 
@@ -300,10 +339,10 @@ content:
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
             - <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
             <img src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-            - <img src="https://img.shields.io/badge/emotion-DB7093?style=flat-square&logo=styled%20components&logoColor=white"/>
+            - <img src="https://img.shields.io/badge/emotion-DB7093?style=flat-square&logo=emotion&logoColor=white"/>
             <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white"/>
             <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
             <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
@@ -321,13 +360,13 @@ content:
           <strong>❏ 역할</strong>
             - 클라이언트(AI 케어 로봇/케어 App 사용) - 케어기버(맞춤형 케어서비스 App 사용) - 관리자(대시보드 사용)
             - 위 구조에서 클라이언트와 케어기버를 관리하고 관련 데이터를 조회할 수 있는 관리자 대시보드 개발
-            - React -> Next.js 마이그레이션
-            - 상태 관리 라이브러리 사용 : Props Drilling & Context API -> Redux
-            - SEO 설정
-            - Javascript -> Typescript 마이그레이션
             - 관리자 대시보드(해외) Front-End 빌드 및 배포
             - Zeplin을 바탕으로 디자이너와의 소통을 통해 UX 디자인 참여
             - Figma를 바탕으로 추가 기획 단계에 참여
+            - React > Next.js 마이그레이션
+            - 전역 상태관리 방식 변경 (Props Drilling > Context API > Redux > Redux-Toolkit)
+            - Javascript > Typescript 마이그레이션
+            - Google SEO 설정
 
           <strong>❏ 사용 기술</strong>
             - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -335,9 +374,9 @@ content:
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
             - <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
             <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
             - <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white"/>
             <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white"/>
             <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
@@ -350,7 +389,7 @@ content:
         caption: (주)원더풀플랫폼<br />2020.12.31 ~ 2022.02.01
         description: |
           <strong>❏ 프로젝트 개요</strong>
-            - AI 기반 육아 상담 서비스를 지원하는 애플리케이션 (서비스 종료됨)
+            - AI 기반 육아 상담 서비스를 지원하는 애플리케이션 (서비스 종료)
             - 발달 심리 전문가 AI 아바타를 통해 부모와의 양방향 소통으로 맞춤형 육아 지식을 제공
 
           <strong>❏ 역할</strong>
@@ -416,9 +455,10 @@ content:
         sub_title: (주)원더풀플랫폼
         caption: 데이터팀<br />2021.06.11 ~ 현재
         description: |
+          - FE 모노레포 구축
           - 다솜이와의 대화 체험 웹 App 개발 및 유지보수
-          - 관리자 대시보드(Air Liquide) 개발 및 유지보수
-          - 1thefull 홈페이지 개발 및 유지보수
+          - 관리자 대시보드(산소치료기기 사용자) 개발 및 유지보수
+          - 원더풀플랫폼 홈페이지 개발 및 유지보수
           - 관리자 대시보드(국내 지자체) 개발 및 유지보수
           - 케비 보호자 App WebView 개발 및 유지보수
           - 관리자 대시보드(해외) 개발 및 유지보수
